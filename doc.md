@@ -7,11 +7,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a semper elit. S
 
 Praesent et nibh euismod, sagittis quam a, auctor turpis. Morbi vitae faucibus odio. Suspendisse quam felis, dignissim vitae aliquam a, viverra a neque. Donec auctor mollis mauris, vitae hendrerit enim accumsan dictum. Integer vulputate magna metus, eget auctor ante cursus non. Mauris lacinia non arcu sed imperdiet. Praesent blandit, felis sed congue lacinia, arcu dui euismod leo, congue imperdiet lorem eros ac leo. Morbi ut velit nec mi tempus pellentesque vel in massa. Nam feugiat elit at interdum tincidunt. Vestibulum lacus ligula, viverra sed lorem varius, porttitor blandit metus.
 
-## Another Section with H2
+## Text
 
-Ut pellentesque auctor quam id eleifend. Mauris in iaculis nulla. Vivamus bibendum, massa malesuada consectetur facilisis, ex sapien egestas lorem, eget fermentum velit quam in massa. Aenean molestie at nunc non rhoncus. Vestibulum egestas elit vitae orci congue congue. Morbi euismod aliquet lacus eu finibus. Donec nec eleifend erat, id accumsan metus. Sed aliquet elit porttitor consequat mattis.
-
-Vivamus et sapien ac velit iaculis ornare. Curabitur cursus porttitor odio vitae condimentum. Nulla vitae mauris eu tortor maximus lacinia. Donec pellentesque massa dolor. Suspendisse non viverra eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam non neque in ex pretium euismod vitae sed enim. Nunc congue felis et vestibulum tempus. Praesent pretium facilisis lacus, a volutpat sem porta nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam dictum lectus eros, nec scelerisque urna bibendum non. Morbi iaculis varius sem, sed luctus diam tincidunt eget. Sed massa dolor, suscipit fringilla vestibulum vitae, laoreet ut purus. Aenean viverra massa nec lectus dapibus porttitor.
+You can have **bold**, *italic*, and also [links](https://github.com/andreabonetti/md-doc).
 
 ## Tables
 

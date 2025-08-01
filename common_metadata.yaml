@@ -7,6 +7,15 @@
 header-includes:
   - \usepackage[none]{hyphenat}  # Disable all hyphenation
   - \sloppy  # Allow LaTeX to adjust spacing to prevent overflows
+  - \usepackage[normalem]{ulem} # underline links
+  - \usepackage{hyperref}
+  - \hypersetup{
+      colorlinks=true,
+      linkcolor=black,
+      urlcolor=black
+    } # underline links
+  - \let\oldhref\href # underline links
+  - \renewcommand{\href}[2]{\oldhref{#1}{\uline{#2}}} # underline links
 
 # ============================================
 # font and typography

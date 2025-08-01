@@ -19,9 +19,11 @@ REPORT_SETTINGS = \
 
 all: $(NAME).pdf $(NAME_REPORT).pdf
 
+# this should work for any markdown file (e.g., from GitHub)
 $(NAME).pdf:
 	pandoc $(NAME).md -o $(NAME).pdf $(COMMON_SETTINGS)
 
+# this relies also on the content of REPORT_SETTINGS (e.g., title, author)
 $(NAME_REPORT).pdf:
 	pandoc $(NAME).md -o $(NAME_REPORT).pdf $(COMMON_SETTINGS) $(REPORT_SETTINGS)
 
