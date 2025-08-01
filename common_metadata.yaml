@@ -1,0 +1,31 @@
+# ============================================
+# header-includes
+# ============================================
+
+# unfortunately `header-includes` cannot be split into multiple lines
+
+header-includes:
+  - \usepackage[none]{hyphenat}  # Disable all hyphenation
+  - \sloppy  # Allow LaTeX to adjust spacing to prevent overflows
+
+# ============================================
+# font and typography
+# ============================================
+mainfont: "Helvetica"
+fontsize: 11pt
+lineheight: 1.2
+
+# ============================================
+# layout
+# ============================================
+geometry: margin=1in
+
+# ============================================
+# hyphenation
+# ============================================
+hyphenate: false # Prevent hyphenation
+
+# ============================================
+# code block style
+# ============================================
+highlight-style: tango

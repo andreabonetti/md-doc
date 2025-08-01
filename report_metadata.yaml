@@ -1,0 +1,14 @@
+# ============================================
+# title, author, date
+# ============================================
+
+title: "My Document Title"
+author: "Andrea Bonetti"
+date: 2025-08-01
+
+# ============================================
+# section numbering and table of contents (toc)
+# ============================================
+numbersections: true
+toc: true
+
